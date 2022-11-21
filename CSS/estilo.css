@@ -58,16 +58,23 @@ a:hover{
 	padding: 10px;
 }
 
+#area-logo{
+	width: 160px;
+	height: 50px;
+	margin: auto;
+
+}
+
 #area-principal{
 
 	width: 920px;
 	margin: 0px auto;
+	padding: 15px;
 }
 
 #area-postagens{
 	width: 660px;
 	float: left;
-	margin-top: 20px;
 }
 
 .postagem{
